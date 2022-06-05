@@ -1,4 +1,4 @@
-# Discord Token Joiner created in python<br><br>
+# Discord Token Joiner created in Python 3<br><br>
 
 Haven't actually tested the tool so could not work.<br>
 
